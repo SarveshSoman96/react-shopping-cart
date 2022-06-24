@@ -1,0 +1,23 @@
+.product_card{
+    width: 90%;
+    border: 1px solid transparent;
+    margin: 2% auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 2% 4%;
+    box-shadow: 0 0 3px black ;
+}
+
+.product_img{
+    width: 10%;
+    height: 100%;
+}
+.image{
+    display: block;
+    width: 80%;
+    height: 100%;
+    margin: 0 auto;
+}
+
+

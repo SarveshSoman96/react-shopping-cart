@@ -1,0 +1,6 @@
+.shopping_cart{
+    background-color: #fff;
+    padding: 1% 15%;
+    display: flex;
+    justify-content: space-between;
+}

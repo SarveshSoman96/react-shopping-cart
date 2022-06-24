@@ -1,0 +1,18 @@
+.header_logo, .cart_icon, .cart_header{
+    display: flex;
+    align-items: center;
+}
+.cart_header{
+    justify-content: space-between;
+    padding: 3% 15%;
+    background-color: #0086e7;
+}
+.header_logo p, .cart_icon span, .fa-solid{
+    color: #fff ;
+}
+.header_logo > .fa-solid{
+    margin: 0 40px 0 10px;
+}
+.cart_icon > .fa-solid{
+    margin-right: 10px;
+}

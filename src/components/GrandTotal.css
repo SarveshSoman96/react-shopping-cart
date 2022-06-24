@@ -1,0 +1,11 @@
+.grand_total{
+    background-color: #fff;
+    padding: 2% 8%;
+}
+.grand_total p{
+   text-align: right;
+}
+
+.grand_total p span{
+    margin-left: 3%;
+}
